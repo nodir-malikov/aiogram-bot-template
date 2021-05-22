@@ -1,2 +1,8 @@
-aiogram~=2.12
-environs~=8.0.0
+aiogram~=2.13
+environs~=9.3.2
+aiogram_broadcaster~=0.0.6
+loguru~=0.5.3
+aiograph~=0.2
+requests~=2.25.1
+apscheduler
+attrs==19.1.0
